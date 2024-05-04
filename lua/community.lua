@@ -11,6 +11,5 @@ return {
   { import = "astrocommunity.colorscheme.vscode-nvim"},
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.html-css"},
-  { import = "astrocommunity.pack.sql" },
-  -- import/override with your plugins folder
+  -- import/override with  your plugins folder
 }
